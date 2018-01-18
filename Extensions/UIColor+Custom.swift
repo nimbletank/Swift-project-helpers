@@ -1,5 +1,5 @@
 //
-//  UIColor+GEChat.swift
+//  UIColor+Custom.swift
 //  NTChat
 //
 //  Created by Georgios Erakleous on 12/05/2017.

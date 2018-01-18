@@ -1,5 +1,5 @@
 //
-//  UIFont+Joust.swift
+//  UIFont+Custom.swift
 //  Joust
 //
 //  Created by Georgios Erakleous on 27/06/2017.
